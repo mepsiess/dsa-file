@@ -1,3 +1,9 @@
+/* 3. Write a program to implement circular linked list as an ADT which supports the following operations:
+i. Insert an element x in the list
+ii. Remove an element from the list
+iii. Search for an element x in the list and return its pointer */
+
+
 #include <iostream>
 using namespace std;
 
