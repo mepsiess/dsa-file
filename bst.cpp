@@ -1,3 +1,10 @@
+/* 6. Write a program to implement Binary Search Tree as an ADT which supports the following operations:
+i. Insert an element x
+ii. Delete an element x
+iii. Search for an element x in the BST 
+iv. Display the elements of the BST in preorder, inorder, and postorder traversal */
+
+
 #include <iostream>
 using namespace std;
 
