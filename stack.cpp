@@ -1,4 +1,4 @@
-/* 4. Implement Stack as an ADT and use it to evaluate a prefix/postfix expression */
+// 4. Implement Stack as an ADT and use it to evaluate a prefix/postfix expression
 
 
 #include <iostream>
