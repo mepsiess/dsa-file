@@ -1,4 +1,4 @@
-/* 5. Implement Queue as an ADT */
+// 5. Implement Queue as an ADT
 
 
 #include <iostream>
